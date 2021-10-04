@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+# Databases
 
-You can use the [editor on GitHub](https://github.com/GalarianRapidash2345/Enhancement-Three/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GalarianRapidash2345/Enhancement-Three/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The artifact for the Databases category is the creation of basic MySQL statements for a SQL database. The artifact was used in the report for DAD 220: Introduction to SQL and was created in November of 2019. This artifact uses a messaging database, a person table, an image table, and a message-image table. The database and tables were utilized for demonstrating create, read, update, and delete for the MySQL language. Having a minimal knowledge of scripting at the time, I decided to enhance this artifact for illustrating my improved scripting and database abilities.
