@@ -7,12 +7,18 @@
 
 USE messaging; 
 
+
+
 INSERT INTO person(person_id,first_name,last_name) 
     VALUES (20, "Clara", "Kellermann-Bryant");
+    
+    
     
    /* Make new tables for the new database */
    
 ALTER TABLE person ADD hair_color VARCHAR(25) NOT NULL;  /* Properly define variables to be clear*/
+
+
 
 
 UPDATE person
@@ -21,18 +27,24 @@ UPDATE person
   LIMIT 5;
   
   
+  
+  
 
 DELETE FROM person   /* Use prepared statements for preventing SQL injections */
     WHERE 
     first_name = "Diana"
     AND
     last_name = "Taurasi"
-    
+   
+   
+   
 CREATE TABLE image (
     image_id INT(8) UNISIGNED NOT NULL auto_increment,  /* Eliminate redundant variables */
     image_name VARCHAR(50) NOT NULL,
     PRIMARY KEY (image_id)
 ) AUTO_INCREMENT = 1;
+
+
 
 CREATE TABLE message_image (     /* Create properly nested logic constructs */ 
     image_id INT(8) NOT NULL,
@@ -40,11 +52,15 @@ CREATE TABLE message_image (     /* Create properly nested logic constructs */
     PRIMARY KEY (image_id, message_id)
 ) AUTO_INCREMENT = 1;
 
+
+
 CREATE TABLE hello (
 hello_id INT(8) NOT NULL auto_increment,
 hello_name VARCHAR(62) NOT NULL,
 PRIMARY KEY (hello_id)
 ) AUTO_INCREMENT = 1;
+
+
 
 /*This is used as a demonstration of functionality */
 
