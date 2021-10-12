@@ -21,3 +21,8 @@ The overall development process consists of the experiences creating the databas
 Reflecting on the enhancements of artifact three, I gained experiences in stakeholder decision-making, working in collaborative environments, and communication. Other experiences I gained include employing iterative testing techniques, using innovative approaches in computing practices, and developing a security mindset. For stakeholder decision-making, I used MySQL coding standards and implemented documentation within the enhanced artifact. In addition, I incorporated cleaning my artifact while working in a collaborative environment. I then worked on readability and formatting for communication. For employing iterative testing techniques, I improved the artifact by executing the statements and fixing the issues within the artifact. In addition, I used innovative techniques in computing practices, such as implementing timeouts to improve the artifact. I then developed a security mindset through implementing SQL injection prevention, input validation, and refining the tables in the artifact. These experiences solidified my abilities in the databases category.
 
 # References
+
+*Arkham Horror Third Edition.* (2021). Fantasy Flight Games. https://www.fantasyflightgames.com/en/products/arkham-horror-third-edition/
+
+
+ *MySQL internals manual.* (2021). MySQL. https://dev.mysql.com/doc/internals/en/ 
